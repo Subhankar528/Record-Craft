@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5638303e.css",
+    "main.js": "/static/js/main.774c7e90.js",
+    "static/js/977.5c7c5946.chunk.js": "/static/js/977.5c7c5946.chunk.js",
+    "static/js/732.7294d4ff.chunk.js": "/static/js/732.7294d4ff.chunk.js",
+    "static/media/outr-logo.png": "/static/media/outr-logo.3438e7ebf194607e34b6.png",
+    "index.html": "/index.html",
+    "main.5638303e.css.map": "/static/css/main.5638303e.css.map",
+    "main.774c7e90.js.map": "/static/js/main.774c7e90.js.map",
+    "977.5c7c5946.chunk.js.map": "/static/js/977.5c7c5946.chunk.js.map",
+    "732.7294d4ff.chunk.js.map": "/static/js/732.7294d4ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5638303e.css",
+    "static/js/main.774c7e90.js"
+  ]
+}
